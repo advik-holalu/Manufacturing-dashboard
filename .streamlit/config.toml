@@ -2,4 +2,4 @@
 base = "dark"
 
 [server]
-headless = false
+headless = true
